@@ -1,0 +1,29 @@
+#dashboardoverview{
+    width: 100%;
+    height: 70%;
+}
+#dashhead{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #070aaa;
+}
+select{
+    width: 16%;
+    height: 60%;
+    outline: none;
+    border: none;
+}
+#anatomy-wrap{
+    width: 60%;
+    height: 90%;
+    float: left;
+}
+#health-card-wrap{
+    width: 40%;
+    height: 90%;
+    margin-left: 60%;
+}
+

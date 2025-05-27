@@ -1,0 +1,16 @@
+#dashboard{
+    width: 80%;
+    height: 85%;
+    margin-left: 20%;
+}
+#dashContainer{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+#calendarConatiner{
+    width: 50%;
+    height: 100%;
+    margin-left: 50%;
+}
+

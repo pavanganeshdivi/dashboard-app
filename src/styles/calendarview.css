@@ -1,0 +1,71 @@
+#calendarView{
+    width: 100%;
+    height: 50%;
+    color: #070aaa;
+}
+.calendar-head {
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: space-between;
+}
+.calendar-title {
+    width: 70%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    font-size: 1.5vw;
+    margin-left: 2vw;
+    font-weight: 600;
+}
+.calendar-navigation {
+    width: 30%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 40%;
+}
+.calendar-body{
+  width: 100%;
+  height: 60%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.calendar-days{
+  width: 13%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.calendar-appointment{
+  width: 100%;
+  height: 30%;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0.1vw;
+  align-items: center;
+  box-sizing: border-box;
+}
+.appointment{
+  width: 45%;
+  height: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 1vw;
+  font-weight: 600;
+  background-color: rgb(199, 215, 221);
+  color: #070aaa;
+  border-radius: 0.7vw;
+  padding: 0.2vw;
+}
+.appointment img{
+  width: 8%;
+  height: auto;
+  margin-right: 0.5vw;
+}

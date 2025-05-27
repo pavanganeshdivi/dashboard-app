@@ -1,0 +1,73 @@
+#activityfeed{
+    width: 100%;
+    height: 30%;
+    float: right;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1vw;
+}
+.activity-header-container{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    align-items: center;
+}
+.activity-section {
+    width: 90%;
+    height: 90%;
+    background: #e9ebed;
+    border-radius: 1.5vw;
+    align-items: center;
+    overflow: hidden;
+}
+
+.activity-header {
+    font-weight: 700;
+    margin-left: 2vw;
+    font-size: 1vw;
+}
+
+.activity-subtext {
+    font-size: 0.95rem;
+    color: #888;
+    margin-left: 15vw;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    font-size: 1vw;
+}
+
+.bar-chart {
+    height: 65%;
+    display: flex;
+    align-items: flex-end;
+    gap: 3vw;
+    width: 100%;
+    justify-content: center;
+}
+
+.bar {
+    width: 22px;
+    background: #e0e7ff;
+    border-radius: 6px 6px 0 0;
+    transition: height 0.3s;
+    position: relative;
+}
+
+.monday { height: 40px; background: #a5b4fc; }
+.tuesday { height: 80px; background: #6366f1; }
+.wednesday { height: 60px; background: #a5b4fc; }
+.thursday { height: 100px; background: #6366f1; }
+.friday { height: 50px; background: #818cf8; }
+.saturday { height: 30px; background: #6366f1; }
+.sunday { height: 70px; background: #6366f1; }
+
+.activity-footer{
+  width: 100%;
+  height: 15%;
+  display: flex;
+  gap: 2.6vw;
+  font-size: 1vw;
+}
+

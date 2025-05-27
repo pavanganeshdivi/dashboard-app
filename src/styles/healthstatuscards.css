@@ -1,0 +1,53 @@
+#health-cards{
+    width: 100%;
+    height: 95%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    color: #070aaa;
+}
+#card{
+    width: 75%;
+    height: 28%;
+    background-color: #e9ebed;
+    border-radius: 1vw;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    color: #070aaa;
+}
+#card img{
+    width: 20%;
+    height: 30%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+#card h1{
+    text-align: center;
+    margin-left: 5%;
+    color: blue;
+    display: flex;
+    align-items: center;
+    font-size: 1.5vw;
+    font-weight: 500;
+}
+#card p{
+    width: 100%;
+    margin-left: 5%;
+    font-size: 0.8vw;
+    font-weight: 500;
+    color: gray;
+}
+#card input{
+    margin-left: 10%;
+    width: 90%;
+    height: 10%;
+    color: red;
+}
+#details{
+    font-size: 0.8vw;
+    font-weight: 700;
+    margin-left: 50%;
+}
+

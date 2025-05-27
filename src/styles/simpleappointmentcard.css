@@ -1,0 +1,47 @@
+#SimpleAppointmentCard{
+    width: 40%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 0.7vw;
+    background-color: lightblue;
+    color: #070aaa;
+}
+#SimpleAppointmentCard img{
+    width: 10%;
+    height: auto;
+}
+.cards{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.specialist-info{
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    height: 50%;
+    display: flex;
+    gap: 1.2vw;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1vw;
+    padding: 0.5vw;
+    font-weight: 700;
+}
+.appointment-time{
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    font-size: 0.8vw;
+    padding-left: 0.8vw;
+    font-weight: 500;
+}
+
