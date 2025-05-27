@@ -1,12 +1,27 @@
-# React + Vite
+# 🏥 Healthcare Dashboard (React - Static Display)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **responsive, static healthcare dashboard** built with **React**. The design replicates the visual layout provided in the assignment screenshot:  
+📷 [Referenced Design Image](https://i.ibb.co/B2DdGkgF/Screenshot-2025-05-23-at-3-31-31-PM.png)
 
-Currently, two official plugins are available:
+## 📌 Objective
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Recreate a pixel-perfect, static healthcare dashboard using React, focusing on layout accuracy, component structure, and styling — with no interactive features or live data fetching.
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 **[Live Site](#)** (Insert your deployed site link)  
+🔗 **[Public GitHub Repository](#):** [GitHub repository link](https://github.com/pavanganeshdivi/dashboard-app.git)
+
+---
+
+## 🧱 Features
+
+- ✅ Clean and organized UI with a **responsive layout**
+- ✅ Fully componentized React structure
+- ✅ **Static mock data rendering** through props
+- ✅ Styled with **CSS / CSS Modules** (or Styled Components if used)
+- ✅ Pixel-perfect fidelity to the reference design
+
+---
+
+
