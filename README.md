@@ -9,8 +9,8 @@ Recreate a pixel-perfect, static healthcare dashboard using React, focusing on l
 
 ## 🚀 Live Demo
 
-🔗 **[Live Site](#):** [HealthCare](https://dashboard-app-five-gamma.vercel.app/)  
-🔗 **[Public GitHub Repository](#):** [GitHub repository link](https://github.com/pavanganeshdivi/dashboard-app.git)
+🔗 **[HealthCare Dashboard Link](https://dashboard-app-five-gamma.vercel.app/)**  
+🔗 **[GitHub repository link](https://github.com/pavanganeshdivi/dashboard-app.git)**
 
 ---
 
